@@ -7,11 +7,12 @@
 A deep learning project for classifying sperm morphology images using Xception architecture with CBAM attention mechanism.
 
 ## Table of Contents
+- Download :- [DataSet(SMIDS)](https://drive.google.com/drive/folders/1AKnwOSj1IXi8kg0oxDa7HOvNjKYi83Ue?usp=sharing)
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
 - [Technical Implementation](#technical-implementation)
-  - [Key Features](#key-features)
-  - [Performance Metrics](#performance-metrics)
+  - [- Key Features](#key-features)
+  - [- Performance Metrics](#performance-metrics)
 - [Repository Structure](#repository-structure)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -32,7 +33,7 @@ The Sperm Morphology Image Data Set (SMIDS) contains 3000 images distributed as:
 - Abnormal_Sperm: 1005 images 
 - Non-Sperm: 974 images
   
-![Distribution of Tumor Types](distribution_plot.png)
+![Distribution of Tumor Types](https://github.com/Harsha-096/Medical-Image-Classification-using-the-Sperm-Morphology-Image-Dataset/blob/441a846a8c5e06a388896f04d85456526ba7855d/Reports/Distribution%20of%20Tumor%20Types.png)
 
 ## Technical Implementation
 
